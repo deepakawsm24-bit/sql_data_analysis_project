@@ -1,7 +1,8 @@
--- SQL DATA ANALYSIS ASSIGNMENT --------
--- Name : Deepak Kumar 
+-- SQL DATA ANALYSIS Project -------- 
 -- Tool : MySQL Workbench 
 -- Database Used : ClassicModels
+-- Objective : Perform SQL- based business data analysis using ClassicModels database
+
 -- Topics Covered : 
 -- SELECT, WHERE, DISTINCT, LIKE
 -- CASE Statements
